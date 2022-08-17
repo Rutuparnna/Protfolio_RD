@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/Rutuparnna/Protfolio_RD/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Profile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Result-driven, analytical, experienced environmental enthusiast with 2 years of experience. Keen interest in data-driven approaches for monitoring and analysing climate change effects. LCA, GHG emissions, Sustainability, SDGs, GIS, and data analyst.
 
 ```markdown
 Syntax highlighted code block
